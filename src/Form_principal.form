@@ -23,9 +23,9 @@
       <component id="11d3f" class="javax.swing.JButton" binding="bt_insertar">
         <constraints>
           <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
-            <minimum-size width="200" height="-1"/>
-            <preferred-size width="200" height="-1"/>
-            <maximum-size width="200" height="-1"/>
+            <minimum-size width="200" height="35"/>
+            <preferred-size width="200" height="35"/>
+            <maximum-size width="200" height="35"/>
           </grid>
         </constraints>
         <properties>
@@ -37,9 +37,9 @@
       <component id="29270" class="javax.swing.JButton" binding="bt_buscar">
         <constraints>
           <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
-            <minimum-size width="200" height="-1"/>
-            <preferred-size width="200" height="-1"/>
-            <maximum-size width="200" height="-1"/>
+            <minimum-size width="200" height="35"/>
+            <preferred-size width="200" height="35"/>
+            <maximum-size width="200" height="35"/>
           </grid>
         </constraints>
         <properties>
